@@ -1,1 +1,7 @@
-console.log(" this is my first js code")
+const Id = 1290;
+let name = " aaryan"
+var email = "aaryan@gmial.com"
+
+
+console.table([name,email]);
+
